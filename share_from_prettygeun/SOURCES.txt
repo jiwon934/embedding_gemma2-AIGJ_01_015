@@ -1,0 +1,70 @@
+9단계 샘플 영상 (Wikimedia Commons에서 2026-10-26에 받음. 원본 그대로, 수정 없음)
+
+wave_example.webm (624KB, 1920x1080, 5.2초, VP9)
+  출처: https://commons.wikimedia.org/wiki/File:HandWaveExample.webm
+  저작자: NMu11er / 라이선스: CC BY-SA 4.0
+children_waving.webm (3.0MB, 640x480, 44.1초)
+  출처: https://commons.wikimedia.org/wiki/File:Amrita_Vidyalayam_children_waving.webm
+  저작자: Swami Dhyanamritananda / 라이선스: CC BY 3.0
+raise_hand.webm (10.6MB, 1088x1936 세로, 13.2초)
+  출처: https://commons.wikimedia.org/wiki/File:Raise_hand_training.webm
+  저작자: Chamaemelum / 라이선스: CC BY-SA 4.0
+
+받았다가 지운 것: Baltimore_MEPS_Oath_of_Enlistment_Ceremony_(20_July_2026).webm (퍼블릭 도메인)
+  AV1 코덱이라 이 보드의 OpenCV/ffmpeg로 디코딩이 안 돼서 지움
+참고: media/samples/vtest.avi = OpenCV 공식 샘플(https://github.com/opencv/opencv/tree/4.x/samples/data), 보행자 영상
+
+[추가 2026-10-26, 모두 Wikimedia Commons, 원본 그대로]
+jumping_jacks_burpees.webm (6.3MB, 640x480, 45.3초, VP8) 팔벌려뛰기(만세)
+  https://commons.wikimedia.org/wiki/File:Jumping_jacks_and_burpees.webm / Taco fleur / CC BY-SA 4.0
+jumping_jack_slow.webm (1.9MB, 1280x720, 11.6초, VP9) 팔벌려뛰기 슬로모션
+  https://commons.wikimedia.org/wiki/File:Jumping_jack_slow_motion.webm / Earthperp / CC0
+handshake_tv.ogv (3.3MB, 320x240, 60.1초, Theora) 두 사람 악수
+  https://commons.wikimedia.org/wiki/File:Shakinghands_high.ogv / Iraqi state television / Public domain
+handshake_sts71.ogv (748KB, 384x288, 5.0초, Theora) 우주인 악수
+  https://commons.wikimedia.org/wiki/File:Sts-71-hand-shake.ogv / Public domain
+clapping_nhs.webm (29MB, 1920x1080, 32.7초, VP9) 박수
+  https://commons.wikimedia.org/wiki/File:Clapping_for_the_nhs.webm / Elliot bradbury / CC BY 3.0
+applause_wikiconvention.webm (3.9MB, 1920x1080, 3.7초, VP8) 청중 박수
+  https://commons.wikimedia.org/wiki/File:Applaudissements_%C3%A0_la_Wikiconvention_Francophone_2022.webm / Habib M'henni / CC BY-SA 4.0
+
+[추가 2: Mixkit (https://mixkit.co), Mixkit Stock Video Free License - 무료, 출처 표기 의무 없음. 720p H.264, 원본 그대로]
+mixkit/mk28302_arms_crossed_man_green.mp4 (3.1MB, 11.0초) 팔짱 남성 - https://mixkit.co/free-stock-video/man-smiling-with-arms-crossed-on-a-green-background-28302/
+mixkit/mk11653_arms_crossed_woman_standing.mp4 (2.5MB, 6.7초) 팔짱 여성 - https://mixkit.co/free-stock-video/woman-standing-with-her-arms-crossed-11653/
+mixkit/mk29963_arms_crossed_woman_livingroom.mp4 (5.7MB, 19.0초) 팔짱 여성(거실) - https://mixkit.co/free-stock-video/smiling-woman-with-crossed-arms-in-her-living-room-29963/
+mixkit/mk50643_arms_crossed_model.mp4 (4.3MB, 13.5초) 팔짱 끼는 동작 - https://mixkit.co/free-stock-video/a-model-crosses-their-arms-for-a-photo-after-being-50643/
+mixkit/mk35954_classroom_raise_hands_a.mp4 (6.8MB, 21.5초) 교실 손 들기 - https://mixkit.co/free-stock-video/classroom-with-children-raising-their-hands-35954/
+mixkit/mk35968_classroom_raise_hands_b.mp4 (6.6MB, 21.5초) 교실 손 들기 - https://mixkit.co/free-stock-video/children-in-a-classroom-raising-their-hands-35968/
+mixkit/mk11553_raise_hand_question.mp4 (1.9MB, 5.5초) 질문하려고 손 들기 - https://mixkit.co/free-stock-video/raising-hands-to-ask-a-question-11553/
+mixkit/mk48680_waving_woman_greeting.mp4 (7.3MB, 21.0초) 손 흔들어 인사 - https://mixkit.co/free-stock-video/young-woman-smiling-and-waving-in-greeting-to-people-on-48680/
+mixkit/mk33479_waving_two_boys.mp4 (4.0MB, 12.7초) 두 아이 손 흔들기 - https://mixkit.co/free-stock-video/two-little-boys-waving-at-the-camera-33479/
+[받는 중: utd_mhad/MultiViewDataset.zip (186MB) - UTD-MHAD, University of Texas at Dallas, 연구용 공개(논문 인용 요청). https://personal.utdallas.edu/~kehtar/UTD-MHAD.html]
+
+[추가 3: 측면 시점]
+wvu/e{1,3,4,5,8}_s{1,2,3}_v{1,2,3,7}.avi (60개, 각 71프레임 20fps 640x480, 장면 사진 frames/를 묶은 것)
+  WVU Multi-view Action Recognition Dataset, Dataset 1 part1 (West Virginia University, Vinod Kulathumani 연구실)
+  https://community.wvu.edu/~vkkulathumani/wvu-action.html - 연구용 공개 데이터. 논문 인용 요청. 동작 1 서 있기, 3 박수, 4 한 손 흔들기, 5 두 손 흔들기, 8 팔벌려뛰기
+  V1 = 카메라를 정면으로 봄, V2 = 45도, V3·V7 = 측면(90도)
+utd_mhad/MultiViewDataset.zip (186MB) - UTD-MHAD Multi-view, https://personal.utdallas.edu/~kehtar/UTD-MHAD.html, 연구용 공개(논문 인용 요청). 깊이·관절·관성 데이터만 있고 RGB 영상 없음 → 이번 실습에 사용 안 함
+
+[추가 2-1: GRU 다시 학습용 Mixkit 영상 (Mixkit Stock Video Free License, 720p H.264, 원본 그대로). 위 41번 줄 "받는 중"은 추가 3에서 정리됨]
+mixkit/mk23085_clap_office.mp4 박수(사무실) - https://mixkit.co/free-stock-video/business-people-applauding-in-the-office-23085/
+mixkit/mk48667_clap_group_therapy.mp4 박수(집단) - https://mixkit.co/free-stock-video/group-clapping-for-a-man-in-group-therapy-48667/
+mixkit/mk5953_clap_seminar.mp4 박수(세미나) - https://mixkit.co/free-stock-video/seminar-audience-applauding-5953/
+mixkit/mk24214_clap_conference.mp4 박수(회의) - https://mixkit.co/free-stock-video/listening-and-applauding-in-the-conference-24214/
+mixkit/mk4519_idle_students_walking.mp4 걷기(대학생) - https://mixkit.co/free-stock-video/students-walking-in-a-university-4519/
+mixkit/mk25890_idle_people_walking.mp4 걷기 - https://mixkit.co/free-stock-video/people-walking-slowly-across-town-25890/
+mixkit/mk98_idle_person_crosswalk.mp4 걷기(횡단보도) - https://mixkit.co/free-stock-video/person-walking-on-crosswalk-98/
+mixkit/mk460_idle_standing_woman.mp4 서 있기 - https://mixkit.co/free-stock-video/standing-woman-listening-to-music-460/
+mixkit/mk46711_idle_standing_man_rain.mp4 서 있기(비) - https://mixkit.co/free-stock-video/standing-man-under-a-cold-rain-46711/
+mixkit/mk48998_wave_elderly_couple.mp4 손 흔들기(노부부) - https://mixkit.co/free-stock-video/elderly-couple-waving-hello-at-camera-while-chatting-on-a-48998/
+mixkit/mk6389_wave_through_window.mp4 손 흔들기(창문) - https://mixkit.co/free-stock-video/woman-waving-hello-through-a-window-6389/
+mixkit/mk46150_wave_man_couch.mp4 손 흔들기(소파) - https://mixkit.co/free-stock-video/a-man-sitting-on-a-couch-waving-to-someone-on-46150/
+mixkit/mk48679_wave_woman_videocall.mp4 손 흔들기(영상통화) - https://mixkit.co/free-stock-video/young-woman-waving-at-people-on-a-video-call-48679/
+mixkit/mk1305_wave_woman_pier.mp4 손 흔들기(부두) - https://mixkit.co/free-stock-video/woman-waving-from-a-pier-at-the-beach-1305/
+
+[추가 4: 2026-10-27, Mixkit (Mixkit Stock Video Free License, 720p H.264, 원본 그대로)]
+악수: mixkit/mk30015_hs_two_people_sky, mk30006_hs_man_woman, mk49419_hs_yacht, mk25253_hs_welcoming_partner, mk17231_hs_after_agreement, mk45932_hs_wind_turbine, mk30011_hs_silhouettes, mk23387_hs_after_negotiation (.mp4)
+  https://mixkit.co/free-stock-video/ 아래 각 번호 페이지 (예: two-men-shaking-hands-on-a-luxury-yacht-49419)
+GRU 학습 추가: 박수 mk43835·43822·43820·13276·11836·5390·36153·43813, 팔짱 mk45997·45422·50924, 손 흔들기 mk24941·24975·48999·100320·43810·33482, 기본 mk28329·50389·1457
+테스트 구간: test_clips/wave_couch_2-5.5s.avi(mk46150의 2~5.5초), test_clips/wave_videocall_1.5-4s.avi(mk48679의 1.5~4초)
